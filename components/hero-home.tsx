@@ -22,7 +22,7 @@ export default function HeroHome() {
               className="animate-[gradient_6s_linear_infinite] bg-gradient-to-r from-green-400 via-purple-300 to-green-100 bg-clip-text pb-5 font-nacelle text-4xl font-semibold text-transparent md:text-5xl"
               data-aos="fade-up"
             >
-              Monaarch: Transform Your Music with AI-Powered Audio Tools
+             Kadalu: Transform Your Music with AI-Powered Audio Tools
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
