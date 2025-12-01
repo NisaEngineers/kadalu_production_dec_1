@@ -1,0 +1,14 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/app/dashboard/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/nacelle_regular-s.p.df81a124.woff2",
+      "static/media/nacelle_italic-s.p.0e0ac2e6.woff2",
+      "static/media/nacelle_semibold-s.p.9f561684.woff2",
+      "static/media/nacelle_semibolditalic-s.p.f82b8139.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

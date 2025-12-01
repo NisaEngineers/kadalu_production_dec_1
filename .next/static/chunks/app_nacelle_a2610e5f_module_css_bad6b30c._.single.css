@@ -1,0 +1,51 @@
+/* [project]/app/nacelle_a2610e5f.module.css [app-client] (css) */
+@font-face {
+  font-family: nacelle;
+  src: url("../media/nacelle_regular-s.p.df81a124.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: nacelle;
+  src: url("../media/nacelle_italic-s.p.0e0ac2e6.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: nacelle;
+  src: url("../media/nacelle_semibold-s.p.9f561684.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: nacelle;
+  src: url("../media/nacelle_semibolditalic-s.p.f82b8139.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: nacelle Fallback;
+  src: local(Arial);
+  ascent-override: 95.72%;
+  descent-override: 24.47%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.97%;
+}
+
+.nacelle_a2610e5f-module__VbRjCa__className {
+  font-family: nacelle, nacelle Fallback;
+}
+
+.nacelle_a2610e5f-module__VbRjCa__variable {
+  --font-nacelle: "nacelle", "nacelle Fallback";
+}
+
+/*# sourceMappingURL=app_nacelle_a2610e5f_module_css_bad6b30c._.single.css.map*/
